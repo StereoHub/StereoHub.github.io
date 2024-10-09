@@ -13,7 +13,7 @@
 [***4. Cloud Platform: http://43.242.96.52:5002***](http://43.242.96.52:5002)
 
 
-![StereoHub UI](http://43.242.96.52:5002/image/TechMap.svg)
+![StereoHub UI](./TechMap.svg)
 
 ### 1.2 StereoHub Features:
 
@@ -21,19 +21,19 @@
 
 Pipelined single-slice analysis and time-based multi-slice analysis.
 
-![StereoHub UI](http://43.242.96.52:5002/image/StereoHub-UI.jpg)
+![StereoHub UI](./StereoHub-UI.jpg)
 
 #### 1.2.2 Single-Cell Seurat
 
 Pipelined analysis and visualization of Single-Cell expression data based on Seurat.
 
-![StereoHub UI](http://43.242.96.52:5002/image/Seurat.png)
+![StereoHub UI](./Seurat.png)
 
 #### 1.2.3 Computed Tomography Slicer
 
 Supports online labeling and feature extraction of DICOM data from CT and NMR.
 
-![StereoHub UI](http://43.242.96.52:5002/image/Slicer.png)
+![StereoHub UI](./Slicer.png)
 
 ### 1.3 StereoHub Develop or Deploy
 
